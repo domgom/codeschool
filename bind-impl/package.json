@@ -1,0 +1,16 @@
+{
+  "name": "bind-impl",
+  "version": "0.0.1",
+  "description": "Bind Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js",
+    "cov": "istanbul cover node_modules/tape/bin/tape test/*.js"
+  },
+  "author": "domgom",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "tape": "^3.0.0"
+  }
+}

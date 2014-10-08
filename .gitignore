@@ -5,3 +5,4 @@ stream-adventure/node_modules/
 makemehapi/node_modules/
 bind-impl/node_modules/istanbul/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/test/test_underscore/vendor/jslitmus.js
 bind-impl/node_modules/
+bind-impl/coverage/
